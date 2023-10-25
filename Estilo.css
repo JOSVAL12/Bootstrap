@@ -1,0 +1,21 @@
+header{
+    background-color: rgb(87, 188, 131);
+}
+.Nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+
+footer {
+    background-color: rgb(87, 152, 122); 
+    color: rgb(235, 237, 234); 
+    padding: 10px; 
+
+}
